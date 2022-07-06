@@ -2,7 +2,9 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=imdaaniel)
 
+<!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imdaaniel&theme=blue-green)
+-->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=imdaaniel&show_icons=true)
 
